@@ -1,6 +1,6 @@
 
 cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
-project(Project2)
+project(Project)
 
 find_package(wxWidgets 3.1.0 COMPONENTS core base REQUIRED)
 find_package(OpenCV 4.2 REQUIRED)
