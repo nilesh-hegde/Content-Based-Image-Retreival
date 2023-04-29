@@ -1,5 +1,7 @@
 # Content-Based-Image-Retreival
 
+This project used color and texture of images to find patterns and similarity. The project consists of Baseline matching, Histogram matching, Multi-histogram matching and Color-texture histogram matching. There are also tasks involving maximising Green dumpster matches and finding as many red toys as possible. The GUI implementation is done using wxWidgets library.
+
 OS - Linux (Debian - Ubuntu 22.04)
 IDE - None (CLE using terminal)
 
