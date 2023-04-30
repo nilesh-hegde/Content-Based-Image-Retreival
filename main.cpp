@@ -1,9 +1,3 @@
-/*
-Nilesh Hegde
-1 February 2023
-Project 2 - Content-based Image Retrieval
-*/
-
 #include "base.h"
 #include <wx/wxprec.h>
 #ifndef WX_PRECOMP
