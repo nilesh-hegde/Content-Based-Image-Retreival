@@ -1,8 +1,3 @@
-/*
-Nilesh Hegde
-#include "base.h"
-1 February 2023
-*/
 #include <wx/string.h>
 #include <wx/menu.h>
 #include <wx/textctrl.h>
